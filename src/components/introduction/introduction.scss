@@ -1,0 +1,21 @@
+.introduction-control {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    img {
+        float: left;
+        width: 300px;
+        height: 300px;
+    }
+
+    .introduction-content{
+        display: inline;
+    }
+}
+.btn{
+    margin-top: 60px;
+    color: white;
+    background-color: #a2bdbe;
+    border-radius: 300px;
+    padding: 13px 26px;
+    text-decoration: none;
+}

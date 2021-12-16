@@ -1,0 +1,10 @@
+.location-control {
+    display: flex;
+    flex-direction: row;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    .location-content {
+        padding-left: 7.5%;
+        padding-right: 7.5%;
+    }
+}

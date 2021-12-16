@@ -1,0 +1,18 @@
+.contact-control {
+    display: flex;
+    flex-direction: row;
+    img {
+        flex: 6;
+        width: 100%;
+    }
+    .contact-info {
+        flex: 4;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 34px;
+    }
+    padding-bottom: 50px;
+}

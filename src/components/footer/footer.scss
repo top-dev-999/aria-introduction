@@ -1,0 +1,29 @@
+.footer-control {
+    background-color: #96d7d9;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .footer-content {
+        display: flex;
+        flex-direction: row;
+        
+        max-width: 1080px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        h2 {
+            flex: 1;
+            color: #0b421b;
+            font-weight: 800;
+        }
+        .footer-banner {
+            flex: 1;
+            img {
+                width: 100%;
+            }
+        }
+        .footer-info {
+            flex: 1;
+        }
+    }
+}
